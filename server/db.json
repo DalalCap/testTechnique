@@ -1,0 +1,10 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "newArticle",
+            "completed": false
+        }
+    ]
+ }
