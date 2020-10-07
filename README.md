@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Description de ce mini projet
+L'affichage d'une liste des articles qui doivent parvenir d'un api externe
 ## Available Scripts
 
 In the project directory, you can run:
